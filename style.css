@@ -1,0 +1,14 @@
+h1,h2,h3,p,li{
+    color: white;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 5em;
+    font-weight: 900;
+}
+body{
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    background-color: black;
+}
